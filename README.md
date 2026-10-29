@@ -109,7 +109,7 @@ http://localhost:8080/CalculatriceWS?wsdl
 Pour consulter le WSDL, le serveur doit être démarré et rester en cours d'exécution.
 
 ### Capture 1 : Démarrage du service
-![Capture du démarrage du serveur](cp1.png)
+![Capture du démarrage du serveur](cap/cp1.png)
 ## 7. Tests avec SoapUI
 
 Les tests sont effectués avec SoapUI en important le WSDL du service.
@@ -144,7 +144,7 @@ La méthode `somme()` additionne les deux valeurs transmises par le client.
 
 **Capture 3 : Test de la somme**
 
-![Résultat du test de la somme](cp2.png)
+![Résultat du test de la somme](cap/cp2.png)
 
 ### 8.2. Test de la multiplication
 
@@ -156,7 +156,7 @@ La méthode `multiplication()` calcule le produit des deux nombres.
 
 **Capture 4 : Test de la multiplication**
 
-![Résultat du test de multiplication](cp3.png)
+![Résultat du test de multiplication](cap/cp3.png)
 
 ### 8.3. Test de la soustraction
 
@@ -168,7 +168,7 @@ La méthode `soustraction()` calcule la différence entre les deux nombres.
 
 **Capture 5 : Test de la soustraction**
 
-![Résultat du test de soustraction](cp4.png)
+![Résultat du test de soustraction](cap/cp4.png)
 
 ### 8.4. Test de la division
 
@@ -182,7 +182,7 @@ La division par zéro est traitée comme un cas d'erreur.
 
 **Capture 6 : Test de la division**
 
-![Résultat du test de division](cp5.png)
+![Résultat du test de division](cap/cp5.png)
 
 ## 9. Bilan des tests
 
